@@ -46,7 +46,7 @@ function colocaForno(tabuleiro) {
   return "Bolo de  " + tabuleiro;
 }
 function confeitar(pedido, bolo) {
-  return bolo + " confeitado com " + pedido.confeitos;
+  return bolo + " Confeitado com: " + pedido.confeitos;
 }
 /* 
 CALCULAR O PREÇO 
@@ -72,7 +72,7 @@ function calculaIngredientes() {
   return 10.0;
 }
 function calculaConfeiteira(preco_calc) {
-  return (preco_calc += preco_calc * 0.3);
+  return (preco_calc += preco_calc * 0.20);
 }
 function calculaDespesas(preco_calc) {
   return (preco_calc += 5.0);
@@ -81,7 +81,7 @@ function calculaGastos(preco_calc) {
   return (preco_calc += 15.0);
 }
 function calculaLucro(preco_calc) {
-  return (preco_calc += preco_calc * 0.25);
+  return (preco_calc += preco_calc * 0.30);
 }
 /* 
 ENTREGAR O PEDIDO 
