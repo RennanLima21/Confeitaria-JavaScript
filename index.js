@@ -36,7 +36,7 @@ function preparaPedido(pedido) {
 }
 // FUNCTIONS DOS PROCESSOS
 function separaIngredientes(pedido) {
-  let ingredientes_base = "ovos, leite, farinaha, fermento.";
+  let ingredientes_base = "ovos, leite, farinha, fermento.";
   return ingredientes_base;
 }
 function misturaBolo(pedido, ingredientes_base) {
