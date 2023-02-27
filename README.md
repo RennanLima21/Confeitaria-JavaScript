@@ -19,8 +19,8 @@ INTERAÇÃO NO TERMINAL  |  EM (__XXX__) INTERAÇÃO CLIENTE
 " Qual o sabor que gostaria? (__Chocolate__) <br>
 Quais são os confeitos? (__Confeti, morango, creme.__) <br>
 Pedido pronto !!!</br>
-Aproveite o seu Bolo de  Chocolate, ovos, leite, farinha, fermento. Confeitado com: Confeti, morango, creme
-Seu pedido ficou em R$41.6. Quando terminar de comer clique ENTER para pagar...!<br>
+Aproveite o seu Bolo de  Chocolate, ovos, leite, farinha, fermento. Confeitado com: Confeti, morango, creme<br>
+Seu pedido ficou em R$41.6.<br> Quando terminar de comer clique ENTER para pagar...!<br>
 Digite o valor para pagar: (__40__)<br>
 Valor incorreto, digite o valor correto para pagar: (__45__)<br>
 Valor incorreto, digite o valor correto para pagar: (__41.6__)<br>
